@@ -1,0 +1,85 @@
+# Stop met de chatbot. Word de trainer.
+
+*Waarom de manier waarop uw organisatie AI inzet bepalend is voor haar toekomst — en waar het nu structureel misgaat.*
+
+---
+
+Er is een fundamenteel misverstand over wat een Large Language Model doet. Vrijwel elke organisatie die vandaag AI omarmt, behandelt het als een geavanceerde zoekmachine of een slimme assistent. Een tool die je een vraag stelt, en die een antwoord teruggeeft. Snel, vloeiend, ogenschijnlijk betrouwbaar.
+
+Dat misverstand is niet onschuldig. Het bepaalt hoe mensen samenwerken met AI, hoe beslissingen worden genomen, en uiteindelijk hoe betrouwbaar de output is die uw organisatie produceert.
+
+> Een LLM produceert. Wij beoordelen. Die taakverdeling is het mechanisme. De vraag is of er iemand is die het mechanisme waarmaakt.
+
+---
+
+## Wat een LLM werkelijk doet
+
+Een taalmodel genereert geen feiten. Het genereert de meest waarschijnlijke volgende tekst, op basis van patronen in miljarden eerder gelezen zinnen. Dat levert zeer indrukwekkende output op. Het is altijd een constructie — een zeer goed geïnformeerde gok.
+
+Dit betekent dat een LLM structureel afhankelijk is van correctie van buitenaf. Net zoals een menselijk brein zijn eigen aannames voortdurend toetst aan de werkelijkheid via zintuigen en feedback, heeft een AI-systeem een gesprekspartner nodig die weet wanneer de output klopt en wanneer niet. Die gesprekspartner noemen we de trainer.
+
+Zonder trainer geen correctie. Zonder correctie geen betrouwbaarheid.
+
+---
+
+## Het verschil tussen gebruiker en trainer
+
+Een gebruiker stelt een vraag en accepteert het antwoord. Een trainer stelt een vraag, beoordeelt het antwoord, en stuurt bij. Dat klinkt als een subtiel onderscheid. In de praktijk maakt het alles uit.
+
+- Een gebruiker vergroot de kans op fouten die onopgemerkt doorstromen in rapporten, adviezen en beslissingen.
+- Een trainer fungeert als kwaliteitscontrole en vergroot de betrouwbaarheid van de output significant.
+- Een gebruiker wordt passief afhankelijk van wat het systeem produceert. Een trainer behoudt zijn kritisch oordeelsvermogen.
+- Een gebruiker leert niets van de interactie. Een trainer ontwikkelt dieper begrip van het domein én van de grenzen van AI.
+
+Het onderscheid raakt ook aan iets diepers: wie de regie heeft over de werkelijkheid die uw organisatie construeert. Wie bepaalt wat klopt?
+
+---
+
+## Waarom commerciële AI-tools dit probleem verergeren
+
+De grote AI-platformen zijn gebouwd op een fundamenteel commercieel principe: tevredenheid. Een model dat prettige, vloeiende antwoorden geeft, wordt meer gebruikt. Een model dat tegenspreekt, nuanceert of zegt "dat weet ik niet zeker", veroorzaakt frictie.
+
+Frictie verkoopt minder goed.
+
+Het gevolg is wat onderzoekers *sycophancy* noemen: AI-systemen die systematisch bevestigen wat de gebruiker wil horen. Niet omdat het waar is, maar omdat het aangenaam is. Dit is geen ontwerpfout. Het is een bewuste commerciële keuze — en de organisaties die dat niet begrijpen, betalen de prijs.
+
+> Een systeem dat zijn trainer wegoptimaliseert, zaagt aan zijn eigen betrouwbaarheid. Op korte termijn een prettige ervaring, op lange termijn drift richting een werkelijkheid die losraakt van de grond.
+
+---
+
+## Wat dit betekent voor uw organisatie
+
+*Human-in-the-loop* is geen technische term. Het is een organisatieprincipe. Het stelt de vraag: wie in uw organisatie heeft de kennis, de positie en de discipline om AI-output te beoordelen voordat die doorstroomt naar beslissingen?
+
+Dat vereist drie dingen:
+
+- **Begrip.** Medewerkers die begrijpen hoe LLM's werken — niet technisch, maar conceptueel. Wat is een hallucinatie? Wanneer is output betrouwbaar? Wanneer niet? Daarbij hoort ook het besef dat trainingsdata niet foutloos is. Een LLM heeft geleerd van menselijk taalgebruik, menselijke redeneringen, menselijke vooroordelen. De output weerspiegelt dus niet alleen wat waar is, maar ook hoe mensen dachten toen ze schreven. Wie dat begrijpt, weet dat beoordelen niet volstaat — je moet ook kunnen redeneren voorbij wat het systeem aanreikt. Dat vraagt om medewerkers die zeer zelfstandig denken en kritisch blijven, ook als de output overtuigend klinkt.
+- **Proces.** AI-output behandelen als een concept, niet als een conclusie. Verificatie is geen extra stap. Het is de kern van productief AI-gebruik.
+- **Leiderschap.** Weiger AI-gebruik te meten aan snelheid en volume. Stuur op kwaliteit en betrouwbaarheid van de output. De impact van AI is groot genoeg dat dit twee soorten leiderschap vraagt: organisatorisch en vaktechnisch. Organisatorisch leiderschap zorgt voor structuur, kaders en verantwoordelijkheid — wie beslist wat, waar liggen de grenzen, hoe wordt het geborgd. Vaktechnisch leiderschap bewaakt de inhoudelijke kwaliteit — of de output klopt, of de redenering deugt, of het systeem goed wordt ingezet binnen het vakgebied. Het is zelden dat één persoon beide rollen goed kan vervullen. Wie dat niet erkent, belast één persoon te zwaar of laat één van beide dimensies onbewaakt.
+
+---
+
+## De diepere zorg: wat er verloren gaat
+
+Er is een reden waarom dit meer is dan een operationeel vraagstuk. Kennis die alleen nog via AI-systemen wordt doorgegeven, is geen levende kennis meer. Het is een afdruk van wat ooit was. Contextueel begrip, vakmanschap, het vermogen om te beoordelen — dat zijn eigenschappen die mensen ontwikkelen door te oefenen, te falen, te corrigeren en opnieuw te proberen.
+
+Een organisatie die haar medewerkers reduceert tot consumenten van AI-output, verliest op termijn precies de capaciteit die nodig is om die output te beoordelen. Dat is een onomkeerbaar verlies, en het accumuleert stil.
+
+---
+
+## Conclusie: productiviteit begint met kritische positie
+
+AI is een ongeloofelijk krachtig instrument — voor organisaties die het behandelen als een systeem dat ondersteunt, niet als een systeem dat beslist. De meest productieve organisaties zijn niet degenen die het meeste gebruik maken van AI. Het zijn degenen die de beste trainers hebben.
+
+Dat begint met een eenvoudige keuze: stop met uw medewerkers te behandelen als gebruikers van een chatbot. Investeer in hun vermogen om te beoordelen, te corrigeren en te sturen. Houd de mens in de loop — niet als formaliteit, maar als de kern van hoe u AI inzet.
+
+> De waarde van AI wordt niet bepaald door wat het systeem produceert. Het wordt bepaald door wie er naar kijkt.
+
+---
+
+*Gepubliceerd door een groep practitioners · Maart 2026*
+
+
+---
+
+*© Maart 2026. Dit werk valt onder [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Vrij te gebruiken en te verspreiden, ook commercieel, mits onder dezelfde voorwaarden en met bronvermelding. Niemand mag dit werk of afgeleiden daarvan afsluiten onder een meer beperkende licentie.*
