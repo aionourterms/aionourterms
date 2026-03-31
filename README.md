@@ -14,7 +14,7 @@ De redenering is opgebouwd via wisselwerking tussen mens en LLM, wat op zichzelf
 
 **"Het brein dat zichzelf omlaag traint."** gaat een laag dieper: wat er neurologisch en cognitief op het spel staat als mensen zich conditioneren aan AI-gebruik zonder kritische positie. Onderbouwd met bestaand wetenschappelijk onderzoek.
 
-**"AI implementeren zonder sabotage."** is een verkenning ter discussie voor organisaties die trainer-centrische AI willen invoeren — met aandacht voor menselijke weerstand, ethiek, eerlijke compensatie en continuïteit van vakmanschap.
+**"AI implementeren zonder sterke weerstand."** is een verkenning ter discussie voor organisaties die trainer-centrische AI willen invoeren — met aandacht voor menselijke weerstand, ethiek, eerlijke compensatie en continuïteit van vakmanschap.
 
 Deze repository bevat ook een open voorstel aan Anthropic over trainer-gerichte AI-adoptie.
 
